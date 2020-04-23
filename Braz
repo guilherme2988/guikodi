@@ -1,0 +1,64 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="CANAIS",IPTV GUI GRATIS!!
+https://0.0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
+http://proxyts.canais.ink:8080/a/hls/fox.m3u8 
+#EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
+http://proxyts.canais.ink:8080/a/hls/boomerang.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
+http://proxyts.canais.ink:8080/a/hls/nick.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0159/Tooncast.png" group-title="CANAIS",TOONCAST
+http://proxyts.canais.ink:8080/a/hls/tooncast.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0137/Disney-Channel.png" group-title="CANAIS",DISNEY CHANNEL
+http://proxyts.canais.ink:8080/a/hls/disney.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/DisneyXd/disney%20xd.png" group-title="CANAIS",DISNEY XD
+http://proxyts.canais.ink:8080/a/hls/disneyxd.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",ANIMAL PLANET
+http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY
+http://proxyts.canais.ink:8080/a/hls/history.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/DiscoveryChannel_201708/discovery%20channel.png" group-title="CANAIS",DISCOVERY CHANNEL
+http://proxyts.canais.ink:8080/a/hls/discovery.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/fyahras535i_gmail_Hbo/hbo.jpg" group-title="CANAIS",HBO HD
+http://proxyts.canais.ink:8080/a/hls/hbo.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/globo_202001/GLOBO.jpg" group-title="CANAIS",GLOBO
+http://proxyts.canais.ink:8080/a/hls/bobosp.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/stevechatfield27_gmail_Amc/amc.png" group-title="CANAIS",AMC
+http://proxyts.canais.ink:8080/a/hls/amc.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY
+http://proxyts.canais.ink:8080/a/hls/sony.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0120/Universal-Channel.png" group-title="CANAIS",UNIVERSAL CHANNEL
+http://proxyts.canais.ink:8080/a/hls/universal.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",WARNER CHANNEL
+http://proxyts.canais.ink:8080/a/hls/warner.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",NATGEO WILD
+http://proxyts.canais.ink:8080/a/hls/natgeo.m3u8 
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/TntHd/tnt%20hd.png" group-title="CANAIS",TNT HD
+http://proxyts.canais.ink:8080/a/hls/tnt.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",A&E
+http://proxyts.canais.ink:8080/a/hls/aie.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network
+http://proxyts.canais.ink:8080/a/hls/cartoon.m3u8 
+
+###################################################
+###################################################
+##FILMES####
