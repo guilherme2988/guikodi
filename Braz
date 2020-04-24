@@ -5,6 +5,7 @@ https://0.0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
 http://proxyts.canais.ink:8080/a/hls/fox.m3u8 
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
 http://proxyts.canais.ink:8080/a/hls/boomerang.m3u8 
 
@@ -61,4 +62,4 @@ http://proxyts.canais.ink:8080/a/hls/cartoon.m3u8
 
 ###################################################
 ###################################################
-##FILMES####
+##FILMES#####
