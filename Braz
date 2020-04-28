@@ -2130,7 +2130,7 @@ https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="PEDIDOS DE CANAIS E FILMES",PEDIDOS NO CANAL!!!!!! GUIGA IPTV
-https://ia601500.us.archive.org/2/items/in-shot-20200427-211901008/InShot_20200427_211901008.mp4 
+https://ia601500.us.archive.org/2/items/in-shot-20200427-211901008/InShot_20200427_211901008.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="PEDIDOS DE CANAIS E FILMES",IPTV GUIGA GRATIS!!
 https://0.0.0.0.1
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="CANAIS",IPTV GUIGA GRATIS!!
@@ -2138,7 +2138,7 @@ https://0.0.0.0.0
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
 http://cdn.cracklevideos.cf/live/fox/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
-http://nitro.ltd:25461/live/Max30/WQEyZd5Ilf/41349.m3u8
+http://proxyts.canais.org:8080/a/hls1/amc.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
 http://cdn.cracklevideos.cf/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",NATGEOKIDS
@@ -2158,7 +2158,7 @@ http://cdn.cracklevideos.cf/live/hbo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/globo_202001/GLOBO.jpg" group-title="CANAIS",GLOBO
 http://cdn.cracklevideos.cf/live/globosp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/stevechatfield27_gmail_Amc/amc.png" group-title="CANAIS",AMC
-http://nitro.ltd:25461/live/Max30/WQEyZd5Ilf/41358.m3u8
+http://proxyts.canais.org:8080/a/hls1/amc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY
 http://maxptv.net:8080/live/rosa/rosa/53.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0120/Universal-Channel.png" group-title="CANAIS",UNIVERSAL CHANNEL
