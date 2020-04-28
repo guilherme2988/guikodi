@@ -2052,6 +2052,10 @@ https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38
 #EXTMF:logo="https://archive.org/download/boomerang_201708/boomeng.pg" grup-tile="CAIS",BOO
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="PEDIDOS DE CANAIS E FILMES",PEDIDOS NO CANAL GUIGA IPTV
+https://0.0.0.0.1
+#EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="PEDIDOS DE CANAIS E FILMES",IPTV GUI GRATIS!!
+https://0.0.0.0.1
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="CANAIS",IPTV GUI GRATIS!!
 https://0.0.0.0.0
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
