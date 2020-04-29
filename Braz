@@ -2173,6 +2173,20 @@ http://maxptv.net:8080/live/rosa/rosa/21.m3u8
 http://cdn.cracklevideos.cf/live/nickjr/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network
 http://cdn.cracklevideos.cf/live/cartoonnetwork/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS PEDIDOS",Telecine action
+http://proxyts.canais.org:8080/a/hls1/telecineaction.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS PEDIDOS",Telecine cult
+http://proxyts.canais.org:8080/a/hls1/telecinecult.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS PEDIDOS",Telecine fun
+http://proxyts.canais.org:8080/a/hls1/telecinefun.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS PEDIDOS",Telecine pipoca
+http://proxyts.canais.org:8080/a/hls1/telecinepipoca.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS PEDIDOS",Telecine Premium
+http://proxyts.canais.org:8080/a/hls1/telecinepremium.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS PEDIDOS",Telecine touch
+http://proxyts.canais.org:8080/a/hls1/telecinetouch.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS PEDIDOS",Combate
+http://proxyts.canais.org:8080/a/hls1/combate.m3u8
 #EXTM3
 #EXTMF:logo="https://archive.org/download/boomerang_201708/boomerang.pg" grup-tile="CAIS",BOO
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
